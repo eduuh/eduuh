@@ -19,7 +19,7 @@ Hi, I'm [Edwin Muraya!](https://eduuh.github.io/blog), at DKUT and a passionate 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning DSA @[golclinic](); 
+- 🌱 I’m currently learning DSA @[golclinic](https://golclinics.github.io/); 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@eduuhmuraya](https://www.twitter.com/eduuhmuraya/);
 - 📝[@Resume]()
@@ -35,6 +35,9 @@ Hi, I'm [Edwin Muraya!](https://eduuh.github.io/blog), at DKUT and a passionate 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 
 
 If you like what I do, maybe consider buying me a coffee 🥺👉👈
