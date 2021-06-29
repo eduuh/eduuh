@@ -12,7 +12,7 @@
 
 <br />
 
-Hi, I'm [Edwin Muraya!](http://eduuh.me), at DKUT and a passionate Full Stack Web Developer,Joining Competitive coding 🚀 from Kenya.
+Hi, I'm [Edwin Muraya!](http://eduuh.me), student at DKUT and a passionate Full Stack Web Developer,Joining Competitive coding 🚀 from Kenya.
 
   <img align="right" alt="GIF" src="https://github.com/apoorvdwi/apoorvdwi/blob/master/code.gif?raw=true" width="500" height="320" />
   
