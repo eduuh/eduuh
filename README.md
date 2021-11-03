@@ -39,11 +39,6 @@ Hi, I'm [Edwin Muraya!](http://eduuh.me), student at DKUT and a passionate Full 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 
-
-If you like what I do, maybe consider buying me a coffee 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/eduuh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width ="150px" ></a>
-
 **📈 My GitHub Stats**
 
 
