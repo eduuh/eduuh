@@ -4,10 +4,6 @@
   <img align="left" alt="Edwin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://www.codechef.com/users/eduuh">
-  <img align="left" alt="Edwin's Codechef" width="22px" src="https://iconhelper.cn/svg/brands/codechef.svg" />
-</a>
-
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=eduuh&countColor=%237B1E7A)
 
 <br />
