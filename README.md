@@ -8,17 +8,17 @@
 
 <br />
 
-Hi, I'm [Edwin Muraya!](http://eduuh.me), student at DKUT and a passionate Full Stack Web Developer,Joining Competitive coding 🚀 from Kenya.
+Hi, I'm [Edwin Muraya!](http://eduuh.me), A .Net Developer and Javascript Developer,Joining Competitive coding 🚀 from Kenya.
 
   <img align="right" alt="GIF" src="https://github.com/apoorvdwi/apoorvdwi/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning DSA @[golclinic](https://golclinics.github.io/); 
+- 🌱 I’m currently praticing DSA @[golclinic](https://golclinics.github.io/); 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@eduuhmuraya](https://www.twitter.com/eduuhmuraya/);
-- 📝[@Resume]()
+- 📝[@Resume](https://eduuh.github.io/about/assets/edwin.pdf)
 
 **Languages and Tools:**  
 
