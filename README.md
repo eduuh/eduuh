@@ -38,4 +38,4 @@ Hi, I'm [Edwin Muraya!](http://eduuh.me), A .Net Developer and Javascript Develo
 **📈 My GitHub Stats**
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=eduuh&show_icons=true&theme=gotham" alt="eduuh" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduuh&layout=compact&show_icons=true&theme=gotham" alt="eduuh" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=eduuh&show_icons=true&theme=gotham" alt="eduuh" />  </p>
