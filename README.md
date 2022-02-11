@@ -16,7 +16,7 @@ Hi, I'm [Edwin Muraya!](http://eduuh.me), A .Net Developer and Javascript Develo
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently praticing DSA @[golclinic](https://golclinics.github.io/); 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 [Personal Blog](https://eduuh.net);
 - 📫 How to reach me: [@eduuhmuraya](https://www.twitter.com/eduuhmuraya/);
 - 📝[@Resume](https://eduuh.github.io/about/assets/edwin.pdf)
 
