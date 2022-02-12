@@ -14,10 +14,10 @@ Hi, I'm [Edwin Muraya!](http://eduuh.me), A .Net Developer and Javascript Develo
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently praticing DSA @[golclinic](https://golclinics.github.io/); 
-- 💬 [Personal Blog](https://eduuh.net);
-- 📫 How to reach me: [@eduuhmuraya](https://www.twitter.com/eduuhmuraya/);
+- 👨🏽‍💻 I’m currently working on something cool :wink:
+- 🌱 I’m currently praticing DSA @[golclinic](https://golclinics.github.io/)
+- 💬 [Personal Blog](https://eduuh.net)
+- 📫 How to reach me: [@eduuhmuraya](https://www.twitter.com/eduuhmuraya/)
 - 📝[@Resume](https://eduuh.github.io/about/assets/edwin.pdf)
 
 **Languages and Tools:**  
