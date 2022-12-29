@@ -8,7 +8,7 @@
 
 <br />
 
-Hi, I'm [Edwin Muraya!](http://eduuh.me), A .Net Developer and Javascript Developer 🚀 from Kenya.
+Hi, I'm [Edwin Muraya!](http://eduuh.net), A .Net Developer and Javascript Developer 🚀 from Kenya.
 
   <img align="right" alt="GIF" src="https://github.com/apoorvdwi/apoorvdwi/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -18,7 +18,6 @@ Hi, I'm [Edwin Muraya!](http://eduuh.me), A .Net Developer and Javascript Develo
 - 🌱 I’m currently praticing DSA @[golclinic](https://golclinics.github.io/)
 - 💬 [Personal Blog](https://eduuh.net)
 - 📫 How to reach me: [@eduuhmuraya](https://www.twitter.com/eduuhmuraya/)
-- 📝[@Resume](https://eduuh.github.io/about/assets/edwin.pdf)
 
 **Languages and Tools:**  
 
