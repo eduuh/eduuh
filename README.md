@@ -1,9 +1,3 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=eduuh&countColor=%237B1E7A)
-
-<br />
-
 Hi, I'm [Edwin Muraya!](http://eduuh.net), A .Net Developer and Javascript Developer 🚀 from Kenya.
 
   <img align="right" alt="GIF" src="https://github.com/apoorvdwi/apoorvdwi/blob/master/code.gif?raw=true" width="500" height="320" />
