@@ -5,9 +5,7 @@ Hi, I'm [Edwin Muraya!](http://eduuh.net), A .Net Developer and Javascript Devel
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
-- 🌱 I’m currently praticing DSA @[golclinic](https://golclinics.github.io/)
 - 💬 [Personal Blog](https://eduuh.net)
-- 📫 How to reach me: [@eduuhmuraya](https://www.twitter.com/eduuhmuraya/)
 
 **Languages and Tools:**  
 
