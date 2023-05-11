@@ -1,11 +1,4 @@
-Hi, I'm [Edwin Muraya!](http://eduuh.net), A .Net Developer and Javascript Developer 🚀 from Kenya.
-
-  <img align="right" alt="GIF" src="https://github.com/apoorvdwi/apoorvdwi/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on something cool :wink:
-- 💬 [Personal Blog](https://eduuh.net)
+Hi, I'm [Edwin Muraya!](http://eduuh.net), A .Net Developer and typescript Software Engineer.
 
 **Languages and Tools:**  
 
