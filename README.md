@@ -1,4 +1,4 @@
-Hi, I'm [Edwin Muraya!](http://eduuh.net), A .Net Developer and typescript Software Engineer.
+Hi, I'm Eduuh!, A .Net Developer and typescript Software Engineer.
 
 **Languages and Tools:**  
 
