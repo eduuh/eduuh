@@ -29,9 +29,3 @@ Software engineer from Nairobi. I build full-stack applications, tinker with inf
 - [My Home Lab](https://eduuh.com/blog/my-home-lab)
 - [Automating Cloudflare Pages with the API](https://eduuh.com/blog/automating-cloudflare-pages-with-api)
 - [Cloudflare Staging Deployment](https://eduuh.com/blog/cloudflare-staging-deployment)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduuh&show_icons=true&theme=gotham&hide_border=true" alt="GitHub stats" />
-</p>
